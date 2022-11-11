@@ -13,8 +13,8 @@ N/A
 
 This contains HTML and CSS that has been refactored for search engine optimization. If the user uses the DevTools console he/she will see the semantic tags.
 
-![alt text](./assets/images/project-image.png)
-![alt text](https://codejoes.github.io/code-refactor-challenge/)
+![Screenshot of Website](./assets/images/project-image.png)
+![Website Link](https://codejoes.github.io/code-refactor-challenge/)
 
 ## Credits
 
